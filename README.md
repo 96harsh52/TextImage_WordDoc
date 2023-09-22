@@ -10,9 +10,6 @@ Due to time constraints, I was unable to fine-tune the TrOCR model to improve it
 
 **Solution**
 
-![image](https://github.com/96harsh52/TextImage_WordDoc/assets/36518896/601ff5df-fdda-4242-9f0b-ab67e8c44aab)
-
-
 The solution to this assignment can be found in the following Colab notebook:
 
 * OCR Assignment Colab Notebook: https://colab.research.google.com/drive/1y3S5YJJ53YN6qKF_WYjvHhk7ean32Z1K?usp=sharing
@@ -22,6 +19,11 @@ The solution to this assignment can be found in the following Colab notebook:
 To fine-tune the TrOCR model, you can follow the instructions in the following Colab notebook:
 
 * Fine-tuning TrOCR Colab Notebook: https://colab.research.google.com/drive/1hQDJf8rEjym1nKEuUKBoedcrrTCfGbtL?usp=sharing
+
+
+![image](https://github.com/96harsh52/TextImage_WordDoc/assets/36518896/601ff5df-fdda-4242-9f0b-ab67e8c44aab)
+
+
 
 **Assignment Details**
 
